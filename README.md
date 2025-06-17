@@ -15,3 +15,13 @@ When complete, you'll be able to grab random quotes from the command line, like 
 ## Start the Tutorial
 
 You can find your next step in [this repo's issues](../../issues/)!
+
+## Calculator
+
+A simple command line calculator is available in `calculator.py`. Run it with:
+
+```bash
+python calculator.py
+```
+
+The script prompts for two numbers and an operation, then displays the result.
